@@ -1,0 +1,58 @@
+{
+    "_version": "1.58.0",
+    "sap.app": {
+        "id": "delek.financial.analysis",
+        "type": "application",
+        "title": "Delek Financial Analysis",
+        "description": "Enterprise financial analysis application for Delek",
+        "applicationVersion": {
+            "version": "2.1.0"
+        }
+    },
+    "sap.ui": {
+        "technology": "UI5",
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": false
+        }
+    },
+    "sap.ui5": {
+        "rootView": {
+            "viewName": "delek.financial.analysis.view.App",
+            "type": "XML",
+            "async": true,
+            "id": "app"
+        },
+        "routing": {
+            "config": {
+                "routerClass": "sap.m.routing.Router",
+                "viewType": "XML",
+                "viewPath": "delek.financial.analysis.view",
+                "controlId": "app",
+                "controlAggregation": "pages",
+                "async": true
+            },
+            "routes": [
+                {
+                    "pattern": "",
+                    "name": "home",
+                    "target": "home"
+                }
+            ],
+            "targets": {
+                "home": {
+                    "viewName": "App"
+                }
+            }
+        },
+        "models": {
+            "i18n": {
+                "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                    "bundleName": "delek.financial.analysis.i18n.i18n"
+                }
+            }
+        }
+    }
+}

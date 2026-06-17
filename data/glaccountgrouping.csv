@@ -1,0 +1,201 @@
+﻿G/L Acct External ID;G/L Account Long Text;G/L Account Type;FS Item;FS Item Name;Financial Statement Line Item;Account Grouping
+61002000;3rd party material;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+61004000;Travel Expenses - Meals;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61004010;Travel Expenses - Meals & Ent (Non-Deduct);Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61005000;Travel Expenses - Ground Transportation;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61005500;Fully Deductible - Lodging;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61007000;Travel Expenses - Airfare, Rail, Mileage;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61008000;Travel Expenses - Miscellaneous;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61008500;Non Deductible - Other Travel;Primary Costs or Revenue;560800;Travel & Entertaiment;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Travel & Entertainment
+61010000;Payroll - Salaried Labor;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61021000;Payroll - Overtime Salaries;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61021100;Payroll - Hourly Labor;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61021110;Payroll - Hourly Temp Help;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61022000;Payroll - Vacation Pay Salaries;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61023000;Payroll - Overtime Wages;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61023100;Hourly Temp Help - Overtime;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61024000;CAPitalized Labor - Contra;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61024100;Labor COSt;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61025000;Bonus;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61026000;Bonus - Other;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61027000;Payroll - Severance;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61050000;Cash Discounts Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+61050005;PDI Merchandise Inv Adj;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+61050007;PDI Merchandise Audit Adj;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+61052000;Group Insurance;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61060000;401K/NQDF Match Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61061000;Casualty;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61063000;Dues to Associations;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61065000;Incentive Plan Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61099999;Labor Allocation (Co Only);Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61100000;Payroll Expense - Salaries;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61101000;Payroll Expense - Other salary-related expenses;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61105000;Direct Costs - Carbon Capture Project;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61106000;Fringe Costs - Carbon Capture Project;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61107000;Indirect Costs - Carbon Capture Project;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61200000;Payroll Expense - Tax and Soc Security - Wages;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61202000;Payroll Taxes - Unemployment;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61400000;Training and Education;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61401000;HR Recruitment;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61402000;Travel - Educ., Training & Seminars;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61402100;Unallowable Costs - Carbon Capture Project;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61403000;Meals & Ent - Educ., Training & Seminars;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61404000;Equipment Outfitting;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61405000;Medical Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61406000;Drug Testing;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61407000;Uniform Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61408000;Protective Clothing & Safety;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61409000;Relocation Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61409100;Housing Allowance;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61409200;Auto-Employee Reimbursement;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61510000;Stock Based Compensation;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61511000;Stock Based Compensation - Allocated;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+61512000;Employee Stock Purchase Plan Expense;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+62000000;Bad Debt Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+62000001;Grant Clearing - Carbon Capture Project;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+62000002;Participant Costs - Carbon Capture Project;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+63001000;Electricity and other Utilities;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63001100;Natural Gas;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63001200;Process Gas F.O.E. To Ref;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63001300;Process Fuel Gas;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63002000;Water;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003000;Other Periodic Service;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003100;Utilities - Nitrogen;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003200;Utilities - Oxygen;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003300;Chemical Expense;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003400;Rebilled Expenses;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003500;Sulfuric Acid;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003600;Drag Reducing Agent Expense;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63003700;Additives;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63004000;Insurance Expense - Casualty & Pollution;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004100;Ins. Exp Executive Service & Network Security;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004200;Uninsured Losses;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004300;Insurance Expense - Property & Time Element;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004400;Insurance Expense - Time Element Adjustment;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004500;Insurance Expense - Bonds;Primary Costs or Revenue;560400;Insurance Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Insurance Expense
+63004600;Catalyst;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63004700;Catalyst Surcharge;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63004800;Wastewater Chemicals;Primary Costs or Revenue;560100;Variable Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Variable Expense
+63005000;Lease Expense;Primary Costs or Revenue;560500;Lease & Rental Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Lease & Rental Expense
+63005100;Contra Lease Expense;Primary Costs or Revenue;560500;Lease & Rental Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Lease & Rental Expense
+63005200;Short-Term Lease Expense;Primary Costs or Revenue;560500;Lease & Rental Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Lease & Rental Expense
+63005300;Variable Lease Expense;Primary Costs or Revenue;560500;Lease & Rental Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Lease & Rental Expense
+63006000;License & Permits;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+63006100;Inspection Fees;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+63006200;Inbound Expense;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+63006300;Cellular Telephone;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+63006400;Telephone and other Communication;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+63006500;Outbound Expense;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+63007000;Fax and Internet;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+65000000;Postage and Shipping;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+65000500;Non Production - Material Consumption;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65000600;Materials - Internal;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65001000;Purchased Services;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65002000;Advertising and Sales Costs;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+65002100;Advertising - Loyality;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+65002200;Employee & Community Events;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+65003000;Repairs & Maint - Vehicle Costs;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65003100;Repairs & Maint - Internal Labor Allocation - Manu;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65003200;Repairs & Maint - Other;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65004000;Contract Services - Waste Disposal;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65004100;Contract Services - Environmental;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65005000;Tank Maintenance;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65005100;Materials - Freight;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65005200;653 Tank Maintenance > 5 Years;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65005300;Maintenance - Preventative;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65005310;Maintenance - Technicians;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65005400;Repairs & Maint - Railcars;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006000;Repairs & Maintenance Trailers;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006010;Repairs & Maintenance Tractors;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006100;Supplies - Tractor Tires-RecAP;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006200;Supplies - Trailer Tires-RecAP;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006300;Towing Expenses;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006400;Truck Wash;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65006500;Extraordinary Maintenance;Primary Costs or Revenue;560300;Maintenance & Repairs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Maintenance & Repairs Expense
+65007000;Contract Services - Spill and Clean-Up;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65100000;Office Supplies;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65101000;Supplies - Storehouse;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65103000;Equipment Outfitting;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65104000;Supplies - Trailer Tires New;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65105000;Supplies - Driver Supplies;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65150000;Computer Supplies;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65160000;Supplies - Royalties;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65200000;Other Supplies;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65210000;Supplies - Association Dues;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65211000;Supplies - Association Dues - Non Deductible;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65220000;Supplies - Janitorial;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65230000;Supplies - Small Tools;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65240000;Supplies - Operating;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65250000;Supplies - Environmental;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65260000;Supplies - Laboratory;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65270000;Supplies - Miscellaneous;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65280000;Supplies - Inventory W/O Adjustments;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65290000;Supplies - Claims Settlement;Primary Costs or Revenue;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+65300000;Contract Services - Audit;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301000;Marketing Expenses;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+65301050;Business Promotion - Non Deductible;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+65301100;Contract Services - Legal;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301200;Contract Services - Professional Consulting;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301300;Contract Services - Outside Services;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301400;Contract Services - Contractors;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301500;Contract Services - Accounting Services;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301600;Contract Services - Inspection Fee;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301700;Contract Services -Mechanical Integrity Inspection;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301800;Contract Services - Safety;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65301900;Contract Services - Security;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302000;Contract Services - Medical Tests & Physicals;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302100;Contract Services - Payroll Processing;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302200;Contract Services - Other;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302300;Contract Services - Trash;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302400;Contract Services - Allocated;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302500;Contract Services - Reimbursement;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65302600;Contract Services - Contingent Labor;Primary Costs or Revenue;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+65900000;Work From Home Reimbursement;Primary Costs or Revenue;560900;Communication Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Communication Expense
+66000000;Other Operating Expenses;Primary Costs or Revenue;561100;Fuel & Lubricants;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000100;Lube Oil, Greases & Water;Primary Costs or Revenue;561100;Fuel & Lubricants;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000200;Fuel Own Use;Primary Costs or Revenue;561100;Fuel & Lubricants;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000300;Inbound Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000400;Third Party Trucking Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000500;Charitable Contributions;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000600;Charitable Contributions - Non Deductible;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000700;Management Fee;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000800;Management Fee (Delek Us Payroll);Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+66000900;Outbound Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000000;Bank Expense;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000001;Bank Charges - Virtual Card;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000100;Credit Card Expense;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000200;Losses - Credit Cards;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000300;Brokerage Fees;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000310;Service Fees;Primary Costs or Revenue;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+67000400;Accretion Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000500;Other Expenses;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000510;Intercompany Management Fees;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000600;Environmental;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000700;Opex Clearing Account;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000800;Right Of Way Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000900;Other Non-Operating Expenses;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000910;G&A Clearing;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000920;Corporate Clean Team Expense;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000930;Royalties;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67000940;Restructuring Cost;Primary Costs or Revenue;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+67001000;Fines & Assessments;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000000;Excise Taxes;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000100;Sales & Use Taxes;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000200;Property Tax Expense;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000300;Business Tax Expense;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000400;Franchise Tax Expense;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000500;Fuel Tax Expense;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+69000600;Federal Reclamation Fund Tax Expense;Primary Costs or Revenue;560600;Taxes, Licenses & Fees;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Taxes, Licenses & Fees
+71000000;Bank Charges;Nonoperating Expense or Income;561000;Service Charges;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Service Charges
+71050000;Cash Discounts Expense;Nonoperating Expense or Income;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+90020000;Internal Labor Settlement;Secondary Costs;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+90030000;Internal Material Settlement;Secondary Costs;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+90040000;External Material Settlement;Secondary Costs;560700;Supplies Expense;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Supplies Expense
+90050000;Services Settlement;Secondary Costs;560200;Outside Services;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Outside Services
+90060000;Other Settlement;Secondary Costs;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+90070000;Group Insurance allocation;Secondary Costs;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+90080000;Trucking allocation;Secondary Costs;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+90090000;Refining split Labour;Secondary Costs;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+90091000;Refining split Non Labour;Secondary Costs;561200;Other expenses;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Other Operating Expenses 
+94311000;Personnel hours;Secondary Costs;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense
+99035980;AUC - WO Cost resettle;Primary Costs or Revenue;560000;Wages and salaries and other benefit costs;Opex above margin - YB20. Opex below margin - YB30. G&A below margin - YB40/YB50/YB99.;Employee Expense

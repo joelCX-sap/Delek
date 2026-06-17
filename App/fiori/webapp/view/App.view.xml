@@ -1,0 +1,261 @@
+<mvc:View
+    controllerName="delek.financial.analysis.controller.App"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:core="sap.ui.core"
+    displayBlock="true">
+
+    <App id="app" height="100%">
+        <pages>
+            <Page
+                id="idMainPage"
+                showHeader="false"
+                enableScrolling="false"
+                backgroundDesign="Solid">
+
+                <!-- ============================================================
+                     SAP FIORI SHELL BAR
+                     ============================================================ -->
+                <customHeader>
+                    <f:ShellBar
+                        id="idShellBar"
+                        title="Financial Analysis"
+                        secondTitle="Delek Group · SAP HANA Cloud"
+                        homeIcon="./img/sap-logo.svg"
+                        homeIconTooltip="SAP Financial Analysis"
+                        showCopilotButton="false"
+                        showSearchButton="false"
+                        showNotifications="false"
+                        class="delekShellBar">
+                        <f:profile>
+                            <Avatar
+                                initials="DA"
+                                displaySize="XS"
+                                backgroundColor="Accent6"
+                                tooltip="Delek Analytics" />
+                        </f:profile>
+                    </f:ShellBar>
+                </customHeader>
+
+                <content>
+                    <!-- ============================================================
+                         DYNAMIC PAGE
+                         ============================================================ -->
+                    <f:DynamicPage
+                        id="idDynamicPage"
+                        headerExpanded="true"
+                        toggleHeaderOnTitleClick="true"
+                        fitContent="true"
+                        class="delekDynamicPage">
+
+                        <!-- TITLE AREA: page heading + Refresh action -->
+                        <f:title>
+                            <f:DynamicPageTitle>
+                                <f:heading>
+                                    <Title
+                                        id="idPageTitle"
+                                        text="Financial Analysis FY {app>/previousYear} vs FY {app>/currentYear}"
+                                        level="H2"
+                                        class="delekPageTitle" />
+                                </f:heading>
+                                <f:snappedHeading>
+                                    <Title
+                                        text="Financial Analysis FY {app>/previousYear} vs FY {app>/currentYear}"
+                                        level="H3" />
+                                </f:snappedHeading>
+
+                                <!-- Compact filter summary shown when header is collapsed -->
+                                <f:snappedContent>
+                                    <HBox alignItems="Center" class="delekFilterSnappedRow">
+                                        <core:Icon
+                                            src="sap-icon://filter"
+                                            size="0.875rem"
+                                            class="delekFilterSnappedIcon sapUiTinyMarginEnd" />
+                                        <Text
+                                            text="FY {app>/currentYear} vs {app>/previousYear}"
+                                            class="delekFilterSnappedText sapUiTinyMarginEnd" />
+                                        <Text
+                                            id="idSnappedCompany"
+                                            text=""
+                                            class="delekFilterSnappedCompany" />
+                                    </HBox>
+                                </f:snappedContent>
+
+                                <f:actions>
+                                    <Button
+                                        id="idRefreshDataBtn"
+                                        text="Refresh Data"
+                                        icon="sap-icon://refresh"
+                                        type="Transparent"
+                                        press="onRefreshDataPress"
+                                        tooltip="Reload data from SAP HANA" />
+                                </f:actions>
+                            </f:DynamicPageTitle>
+                        </f:title>
+
+                        <!-- COLLAPSIBLE HEADER: Filter Bar + KPI Summary -->
+                        <f:header>
+                            <f:DynamicPageHeader pinnable="true">
+
+                                <!-- FILTER BAR -->
+                                <HBox
+                                    alignItems="End"
+                                    wrap="Wrap"
+                                    class="delekFilterBar">
+
+                                    <!-- Current FY -->
+                                    <VBox class="delekFilterGroup">
+                                        <Label
+                                            text="Current Fiscal Year"
+                                            class="delekFilterLabel"
+                                            labelFor="idCurrentYearSelect" />
+                                        <Select
+                                            id="idCurrentYearSelect"
+                                            change="onCurrentYearChange"
+                                            width="7.5rem"
+                                            class="delekFilterSelect" />
+                                    </VBox>
+
+                                    <!-- VS separator -->
+                                    <VBox class="delekFilterVsSep" justifyContent="End">
+                                        <Text text="vs" class="delekFilterVsText" />
+                                    </VBox>
+
+                                    <!-- Compare FY -->
+                                    <VBox class="delekFilterGroup">
+                                        <Label
+                                            text="Compare With"
+                                            class="delekFilterLabel"
+                                            labelFor="idPreviousYearSelect" />
+                                        <Select
+                                            id="idPreviousYearSelect"
+                                            change="onPreviousYearChange"
+                                            width="7.5rem"
+                                            class="delekFilterSelect" />
+                                    </VBox>
+
+                                    <!-- Divider -->
+                                    <VBox class="delekFilterDivider" />
+
+                                    <!-- Company Code -->
+                                    <VBox class="delekFilterGroup">
+                                        <Label
+                                            text="Company Code"
+                                            class="delekFilterLabel"
+                                            labelFor="idCompanyCodeSelect" />
+                                        <Select
+                                            id="idCompanyCodeSelect"
+                                            change="onCompanyCodeChange"
+                                            width="11rem"
+                                            class="delekFilterSelect" />
+                                    </VBox>
+
+                                    <!-- Divider -->
+                                    <VBox class="delekFilterDivider" />
+
+                                    <!-- Segment -->
+                                    <VBox class="delekFilterGroup">
+                                        <Label
+                                            text="Segment"
+                                            class="delekFilterLabel"
+                                            labelFor="idSegmentSelect" />
+                                        <Select
+                                            id="idSegmentSelect"
+                                            change="onSegmentChange"
+                                            width="11rem"
+                                            class="delekFilterSelect" />
+                                    </VBox>
+
+                                    <!-- Functional Area -->
+                                    <VBox class="delekFilterGroup">
+                                        <Label
+                                            text="Functional Area"
+                                            class="delekFilterLabel"
+                                            labelFor="idFunctionalAreaSelect" />
+                                        <Select
+                                            id="idFunctionalAreaSelect"
+                                            change="onFunctionalAreaChange"
+                                            width="13rem"
+                                            class="delekFilterSelect" />
+                                    </VBox>
+
+                                </HBox>
+
+                                <!-- KPI SUMMARY ROW -->
+                                <HBox
+                                    alignItems="Start"
+                                    class="delekKpiRow">
+                                    <VBox class="delekKpiItem">
+                                        <Label
+                                            text="Available Dimensions"
+                                            class="delekKpiLabel" />
+                                        <Text
+                                            text="3 accounting dimensions"
+                                            class="delekKpiValue" />
+                                    </VBox>
+                                    <VBox class="delekKpiItem">
+                                        <Label
+                                            text="Periods"
+                                            class="delekKpiLabel" />
+                                        <Text
+                                            id="idKpiPeriods"
+                                            text="{app>/previousYear} vs {app>/currentYear}"
+                                            class="delekKpiValue" />
+                                    </VBox>
+                                    <VBox class="delekKpiItem">
+                                        <Label
+                                            text="Data Source"
+                                            class="delekKpiLabel" />
+                                        <Text
+                                            text="SAP HANA Cloud"
+                                            class="delekKpiValue" />
+                                    </VBox>
+                                </HBox>
+
+                            </f:DynamicPageHeader>
+                        </f:header>
+
+                        <!-- MAIN CONTENT: Tab Bar -->
+                        <f:content>
+                            <IconTabBar
+                                id="idMainIconTabBar"
+                                select="onIconTabBarMainSelect"
+                                expanded="true"
+                                stretchContentHeight="true"
+                                headerMode="Inline"
+                                backgroundDesign="Transparent"
+                                class="delekTabBar">
+                                <items>
+                                    <IconTabFilter
+                                        text="Annual Summary"
+                                        key="annualSummary"
+                                        icon="sap-icon://bar-chart"
+                                        design="Horizontal">
+                                        <content>
+                                            <mvc:XMLView
+                                                id="idVariancesView"
+                                                viewName="delek.financial.analysis.view.Variances" />
+                                        </content>
+                                    </IconTabFilter>
+                                    <IconTabFilter
+                                        text="Chat IA"
+                                        key="chatIA"
+                                        icon="sap-icon://discussion"
+                                        design="Horizontal">
+                                        <content>
+                                            <mvc:XMLView
+                                                id="idChatView"
+                                                viewName="delek.financial.analysis.view.Chat" />
+                                        </content>
+                                    </IconTabFilter>
+                                </items>
+                            </IconTabBar>
+                        </f:content>
+
+                    </f:DynamicPage>
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>

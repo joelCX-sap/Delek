@@ -1,0 +1,31 @@
+---
+# =============================================================================
+# Cloud Foundry manifest TEMPLATE
+# Copia este archivo a `manifest.yaml` y completa con tus credenciales reales.
+# NUNCA commitees `manifest.yaml` con credenciales reales al repositorio.
+# =============================================================================
+applications:
+- name: delek-backend
+  timeout: 180
+  memory: 1024M
+  disk_quota: 1024M
+  instances: 1
+  buildpacks:
+    - python_buildpack
+  stack: cflinuxfs4
+  command: python -m uvicorn api:app --host 0.0.0.0 --port $PORT
+  env:
+    PYTHONUNBUFFERED: "1"
+    # SAP HANA Connection
+    HANA_ADDRESS: "<your-hana-host>.hanacloud.ondemand.com"
+    HANA_PORT: "443"
+    HANA_USER: "<HANA_USER>"
+    HANA_PASSWORD: "<HANA_PASSWORD>"
+    HANA_ENCRYPT: "True"
+    HANA_SCHEMA: "<HANA_SCHEMA>"
+    # SAP AI Core / GenAI Hub
+    AICORE_AUTH_URL: "https://<tenant>.authentication.<region>.hana.ondemand.com"
+    AICORE_CLIENT_ID: "<AICORE_CLIENT_ID>"
+    AICORE_CLIENT_SECRET: "<AICORE_CLIENT_SECRET>"
+    AICORE_BASE_URL: "https://api.ai.prod.<region>.aws.ml.hana.ondemand.com/v2"
+    AICORE_RESOURCE_GROUP: "default"
